@@ -80,7 +80,7 @@ export function Services() {
             Services That <GradientText>Drive Growth</GradientText>
           </h2>
           <p className="text-foreground-muted max-w-2xl mx-auto">
-            We offer comprehensive digital solutions tailored to your unique business needs. From concept to launch, we've got you covered.
+            We offer comprehensive digital solutions tailored to your unique business needs. From concept to launch, we&apos;ve got you covered.
           </p>
         </FadeInView>
 
@@ -138,7 +138,7 @@ export function Services() {
             href="#contact"
             className="inline-flex items-center gap-2 text-accent hover:text-accent-hover transition-colors group"
           >
-            Let's discuss your project
+            Let&apos;s discuss your project
             <svg
               className="w-4 h-4 group-hover:translate-x-1 transition-transform"
               fill="none"

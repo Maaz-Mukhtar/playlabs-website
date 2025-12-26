@@ -124,7 +124,7 @@ function CTACard() {
         </div>
         <h3 className="text-lg font-semibold mb-2">Your Project Here</h3>
         <p className="text-foreground-muted text-sm">
-          Let's build something amazing together
+          Let&apos;s build something amazing together
         </p>
       </motion.div>
     </StaggerItem>

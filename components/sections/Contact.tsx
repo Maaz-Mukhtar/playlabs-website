@@ -104,10 +104,10 @@ export function Contact() {
             <span className="w-8 h-px bg-accent" />
           </span>
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold mb-4">
-            Let's Build Something <GradientText>Amazing</GradientText>
+            Let&apos;s Build Something <GradientText>Amazing</GradientText>
           </h2>
           <p className="text-foreground-muted max-w-2xl mx-auto">
-            Ready to start your project? Send us a message and we'll get back to you within 24 hours.
+            Ready to start your project? Send us a message and we&apos;ll get back to you within 24 hours.
           </p>
         </FadeInView>
 
@@ -128,7 +128,7 @@ export function Contact() {
                   </div>
                   <h3 className="text-xl font-semibold mb-2">Message Sent!</h3>
                   <p className="text-foreground-muted">
-                    Thank you for reaching out. We'll get back to you soon.
+                    Thank you for reaching out. We&apos;ll get back to you soon.
                   </p>
                 </motion.div>
               ) : (
@@ -186,7 +186,7 @@ export function Contact() {
             <div className="flex flex-col justify-center h-full">
               <h3 className="text-2xl font-semibold mb-6">Contact Information</h3>
               <p className="text-foreground-muted mb-8">
-                Have a question or want to discuss a project? We're here to help. Reach out through any of the following channels.
+                Have a question or want to discuss a project? We&apos;re here to help. Reach out through any of the following channels.
               </p>
 
               <div className="space-y-6">
